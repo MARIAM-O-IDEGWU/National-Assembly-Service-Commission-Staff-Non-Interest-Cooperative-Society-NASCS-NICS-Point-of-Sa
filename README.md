@@ -1,0 +1,2 @@
+# National-Assembly-Service-Commission-Staff-Non-Interest-Cooperative-Society-NASCS-NICS-Point-of-Sa
+This project was specifically developed for the staff of National Assembly.Its a point of sales system that enable some certain group member who are interested in the scheme pick food items or any item of their choice base on loan. The system will save every transaction, generate receipts, print various report base on individual, profit report and so on.   
